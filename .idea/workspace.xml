@@ -9,11 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="servlet init">
+    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="servlet lifecycle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/a.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/ServletDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/ServletDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/a.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +179,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704904337630</updated>
-      <workItem from="1704904338689" duration="8778000" />
+      <workItem from="1704904338689" duration="11373000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -205,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705074717168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="servlet lifecycle">
+      <option name="closed" value="true" />
+      <created>1705143659301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705143659301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +223,7 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="start up with embed tomcat" />
     <MESSAGE value="servlet init" />
-    <option name="LAST_COMMIT_MESSAGE" value="servlet init" />
+    <MESSAGE value="servlet lifecycle" />
+    <option name="LAST_COMMIT_MESSAGE" value="servlet lifecycle" />
   </component>
 </project>
