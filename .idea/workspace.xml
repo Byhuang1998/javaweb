@@ -10,8 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="Servlet Request">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/response/ResponseDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/MyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/request/MyServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/ServletDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/request/ServletDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/ServletRequestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/request/ServletRequestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/ServletRequestDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/request/ServletRequestDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/a.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +187,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704904337630</updated>
-      <workItem from="1704904338689" duration="18082000" />
+      <workItem from="1704904338689" duration="19946000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -240,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705159663256</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Servlet Request">
+      <option name="closed" value="true" />
+      <created>1705187880847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705187880847</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,5 +268,16 @@
     <MESSAGE value="MyServlet" />
     <MESSAGE value="Servlet Request" />
     <option name="LAST_COMMIT_MESSAGE" value="Servlet Request" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/request/ServletRequestDemo2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

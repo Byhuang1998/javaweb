@@ -1,4 +1,4 @@
-package com.byhuang;
+package com.byhuang.request;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebServlet;
