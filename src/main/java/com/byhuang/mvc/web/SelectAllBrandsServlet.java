@@ -20,6 +20,7 @@ public class SelectAllBrandsServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
         List<Brand> brands = brandService.selectAllBrands();
+        System.out.println(brands);
         req.setAttribute("brands", brands);
         req.getRequestDispatcher("/showBrands.jsp").forward(req, resp);
     }

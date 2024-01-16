@@ -9,14 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="jsp JSTL">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/mvc/service/BrandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/mvc/util/SqlSessionFactoryUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/mvc/web/AddBrandServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/byhuang/mvc/mapper/BrandMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/showBrands.jsp" afterDir="false" />
+    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/WEB-INF/classes/com/byhuang/mvc/mapper/BrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/WEB-INF/classes/com/byhuang/mvc/mapper/BrandMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/mvc/web/SelectAllBrandsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/mvc/web/SelectAllBrandsServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/byhuang/mvc/mapper/BrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/byhuang/mvc/mapper/BrandMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +220,7 @@
       <updated>1704904337630</updated>
       <workItem from="1704904338689" duration="23924000" />
       <workItem from="1705247257683" duration="16017000" />
-      <workItem from="1705411685124" duration="830000" />
+      <workItem from="1705411685124" duration="1872000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -345,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705405489522</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="example">
+      <option name="closed" value="true" />
+      <created>1705412578986</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1705412578986</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,7 +370,8 @@
     <MESSAGE value="jsp" />
     <MESSAGE value="jsp EL" />
     <MESSAGE value="jsp JSTL" />
-    <option name="LAST_COMMIT_MESSAGE" value="jsp JSTL" />
+    <MESSAGE value="example" />
+    <option name="LAST_COMMIT_MESSAGE" value="example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
