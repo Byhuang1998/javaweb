@@ -14,10 +14,10 @@
 
     <table border="1" cellspacing="0" width="800">
         <tr>
-            <th>序号</th>
             <th>品牌名称</th>
             <th>企业名称</th>
             <th>排序</th>
+            <th>描述</th>
             <th>状态</th>
             <th>操作</th>
         </tr>

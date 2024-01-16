@@ -9,8 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="jsp">
+    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="jsp EL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/jsp/ELDemoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/jsp/ELDemoServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/el-demo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/el-demo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/hello.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +197,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704904337630</updated>
       <workItem from="1704904338689" duration="23924000" />
-      <workItem from="1705247257683" duration="8336000" />
+      <workItem from="1705247257683" duration="11773000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -298,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705328351853</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="jsp EL">
+      <option name="closed" value="true" />
+      <created>1705338547466</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705338547466</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +329,8 @@
     <MESSAGE value="Servlet Response character" />
     <MESSAGE value="Servlet Response byte" />
     <MESSAGE value="jsp" />
-    <option name="LAST_COMMIT_MESSAGE" value="jsp" />
+    <MESSAGE value="jsp EL" />
+    <option name="LAST_COMMIT_MESSAGE" value="jsp EL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

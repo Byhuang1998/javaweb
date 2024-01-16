@@ -23,6 +23,7 @@ public class ELDemoServlet extends HttpServlet {
         brands.add(new Brand("小米", "小米", 1000, "小米", 1));
 
         req.setAttribute("brands", brands);
+        req.setAttribute("flag", true);
         req.getRequestDispatcher("/el-demo.jsp").forward(req, resp);
     }
 
