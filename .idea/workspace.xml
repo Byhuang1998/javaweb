@@ -11,9 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/WEB-INF/classes/com/byhuang/mvc/mapper/BrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/WEB-INF/classes/com/byhuang/mvc/mapper/BrandMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/mvc/web/SelectAllBrandsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/mvc/web/SelectAllBrandsServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/byhuang/mvc/mapper/BrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/byhuang/mvc/mapper/BrandMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/cookie/BServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/cookie/BServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +218,7 @@
       <updated>1704904337630</updated>
       <workItem from="1704904338689" duration="23924000" />
       <workItem from="1705247257683" duration="16017000" />
-      <workItem from="1705411685124" duration="1872000" />
+      <workItem from="1705411685124" duration="3294000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -350,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705412578986</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="example">
+      <option name="closed" value="true" />
+      <created>1705416569022</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1705416569022</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
