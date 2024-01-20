@@ -9,9 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="example">
+    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="cookie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/cookie/BServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/cookie/BServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +86,7 @@
       <recent name="$PROJECT_DIR$/src/main/webapp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.byhuang.cookie" />
       <recent name="com.byhuang.mvc.web" />
       <recent name="com.byhuang.mvc.mapper" />
       <recent name="com.byhuang.response" />
@@ -218,7 +218,7 @@
       <updated>1704904337630</updated>
       <workItem from="1704904338689" duration="23924000" />
       <workItem from="1705247257683" duration="16017000" />
-      <workItem from="1705411685124" duration="3294000" />
+      <workItem from="1705411685124" duration="6650000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -356,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705416569022</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="cookie">
+      <option name="closed" value="true" />
+      <created>1705500920639</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705500920639</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +385,8 @@
     <MESSAGE value="jsp EL" />
     <MESSAGE value="jsp JSTL" />
     <MESSAGE value="example" />
-    <option name="LAST_COMMIT_MESSAGE" value="example" />
+    <MESSAGE value="cookie" />
+    <option name="LAST_COMMIT_MESSAGE" value="cookie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
