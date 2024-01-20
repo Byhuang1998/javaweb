@@ -10,7 +10,9 @@
 <body>
 
     <h1>hello jsp~</h1>
-
+    <%
+        out.println("in jsp: hello jsp~");
+    %>
 
     <table border="1" cellspacing="0" width="800">
         <tr>
@@ -24,7 +26,6 @@
 
         <%
             List<Brand> brands = new ArrayList<>();
-            out.println("hello jsp~");
             brands.add(new Brand("三只松鼠", "三只松鼠", 100, "三只松鼠，好吃不上火", 1));
             brands.add(new Brand("优衣库", "优衣库", 10, "优衣库，舒服", 0));
             brands.add(new Brand("小米", "小米", 1000, "小米", 1));

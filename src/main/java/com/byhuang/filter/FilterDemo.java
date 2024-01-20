@@ -17,6 +17,7 @@ public class FilterDemo implements Filter {
         System.out.println("filter demo...");
         // 一定要有这一行，表示处理完请求后，放行，会请求到对应的servlet
         filterChain.doFilter(servletRequest, servletResponse);
+        System.out.println("request back...");
     }
 
     @Override
