@@ -9,7 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="cookie">
+    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="http session">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/filter/FilterDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -218,7 +219,7 @@
       <updated>1704904337630</updated>
       <workItem from="1704904338689" duration="23924000" />
       <workItem from="1705247257683" duration="16017000" />
-      <workItem from="1705411685124" duration="6650000" />
+      <workItem from="1705411685124" duration="8164000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -364,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705500920639</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="http session">
+      <option name="closed" value="true" />
+      <created>1705751224269</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1705751224269</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +395,8 @@
     <MESSAGE value="jsp JSTL" />
     <MESSAGE value="example" />
     <MESSAGE value="cookie" />
-    <option name="LAST_COMMIT_MESSAGE" value="cookie" />
+    <MESSAGE value="http session" />
+    <option name="LAST_COMMIT_MESSAGE" value="http session" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,6 +425,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/mvc/web/SelectAllBrandsServlet.java</url>
           <line>21</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/filter/FilterDemo.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
