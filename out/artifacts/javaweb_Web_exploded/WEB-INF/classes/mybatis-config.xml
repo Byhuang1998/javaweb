@@ -16,5 +16,6 @@
     </environments>
     <mappers>
         <mapper resource="com/byhuang/mvc/mapper/BrandMapper.xml"/>
+        <mapper resource="com/byhuang/mvc/mapper/UserMapper.xml"/>
     </mappers>
 </configuration>
