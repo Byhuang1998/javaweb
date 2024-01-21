@@ -11,12 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="java web filter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/hello.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/filter/FilterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/filter/FilterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/request/ServletRequestDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/request/ServletRequestDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/a.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +219,7 @@
       <workItem from="1704904338689" duration="23924000" />
       <workItem from="1705247257683" duration="16017000" />
       <workItem from="1705411685124" duration="14373000" />
-      <workItem from="1705812835441" duration="1480000" />
+      <workItem from="1705812835441" duration="2565000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -395,7 +389,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705771009938</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="java web filter">
+      <option name="closed" value="true" />
+      <created>1705814413283</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1705814413283</updated>
+    </task>
+    <task id="LOCAL-00023" summary="java web filter">
+      <option name="closed" value="true" />
+      <created>1705814428928</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1705814428928</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
