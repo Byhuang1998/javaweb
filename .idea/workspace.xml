@@ -11,8 +11,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="java web filter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_Web_exploded/hello.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/filter/FilterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/filter/FilterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byhuang/request/ServletRequestDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/byhuang/request/ServletRequestDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/a.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,29 +59,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Test.executor": "Debug",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Maven.javaweb [install].executor": "Run",
-    "Maven.javaweb [org.apache.maven.plugins:maven-install-plugin:3.1.1:install].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Tomcat Server.Tomcat 8.5.98.executor": "Debug",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/huangbingyi/Documents/programming/idea_ws/javaweb/src/main/resources/com/byhuang/mvc/mapper",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Test.executor&quot;: &quot;Debug&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Maven.javaweb [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.javaweb [org.apache.maven.plugins:maven-install-plugin:3.1.1:install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 8.5.98.executor&quot;: &quot;Debug&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/huangbingyi/Documents/programming/idea_ws/javaweb/src/main/resources/com/byhuang/mvc/mapper&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/com/byhuang/mvc/mapper" />
@@ -88,11 +92,11 @@
       <recent name="$PROJECT_DIR$/src/main/webapp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.byhuang.pojo" />
+      <recent name="com.byhuang.mvc.mapper" />
+      <recent name="com.byhuang.filter" />
       <recent name="com.byhuang.cookie" />
       <recent name="com.byhuang.mvc.web" />
-      <recent name="com.byhuang.mvc.mapper" />
-      <recent name="com.byhuang.response" />
-      <recent name="com.byhuang" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.98">
@@ -220,7 +224,8 @@
       <updated>1704904337630</updated>
       <workItem from="1704904338689" duration="23924000" />
       <workItem from="1705247257683" duration="16017000" />
-      <workItem from="1705411685124" duration="10061000" />
+      <workItem from="1705411685124" duration="14373000" />
+      <workItem from="1705812835441" duration="1480000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -382,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705769084812</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="java web filter">
+      <option name="closed" value="true" />
+      <created>1705771009938</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1705771009938</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,11 +425,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/request/ServletRequestDemo2.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/response/ResponseDemo2.java</url>
           <line>18</line>
           <option name="timeStamp" value="4" />
@@ -427,11 +435,6 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/mvc/util/SqlSessionFactoryUtil.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/mvc/web/SelectAllBrandsServlet.java</url>
           <line>21</line>
           <option name="timeStamp" value="8" />
@@ -440,6 +443,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/filter/FilterDemo.java</url>
           <line>16</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/filter/LoginFilter.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/login/LoginServlet.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/login/LoginServlet.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/byhuang/request/ServletRequestDemo2.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

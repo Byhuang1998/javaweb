@@ -40,7 +40,7 @@ public class ServletRequestDemo2 extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        System.out.println("get...");
+        System.out.println("post...");
         // getParameterMap 获取所有参数Map集合
         Map<String, String[]> parameterMap = req.getParameterMap();
         for (String key : parameterMap.keySet()) {
@@ -51,14 +51,14 @@ public class ServletRequestDemo2 extends HttpServlet {
             }
         }
 
-        System.out.println("-----------");
+        System.out.println("-----hobby------");
         // getParameterValue 根据名称获取参数值（数组）
         String[] hobbies = req.getParameterValues("hobby");
-        for (String hobby : hobbies) {
-            System.out.println(hobby);
+        for (int i = 0; i < hobbies.length; i++) {
+            System.out.println(hobbies[i]);
         }
 
-        System.out.println("-----------");
+        System.out.println("-----password------");
         // getParameter 根据名称获取参数值（单个）
         String password = req.getParameter("password");
         System.out.println(password);
