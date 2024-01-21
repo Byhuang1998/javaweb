@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="java web filter">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b861e12b-c310-4218-b38f-e4541fb46e8c" name="Changes" comment="java web listener" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +217,7 @@
       <workItem from="1704904338689" duration="23924000" />
       <workItem from="1705247257683" duration="16017000" />
       <workItem from="1705411685124" duration="14373000" />
-      <workItem from="1705812835441" duration="2565000" />
+      <workItem from="1705812835441" duration="3310000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -405,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705814428928</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="java web listener">
+      <option name="closed" value="true" />
+      <created>1705818188659</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1705818188659</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,7 +435,8 @@
     <MESSAGE value="cookie" />
     <MESSAGE value="http session" />
     <MESSAGE value="java web filter" />
-    <option name="LAST_COMMIT_MESSAGE" value="java web filter" />
+    <MESSAGE value="java web listener" />
+    <option name="LAST_COMMIT_MESSAGE" value="java web listener" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
